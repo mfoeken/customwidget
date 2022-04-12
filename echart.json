@@ -2,16 +2,16 @@
   "eula": "",
   "vendor": "SAP",
   "license": "",
-  "id": "com.sap.sac.sample.echarts.pie_chart_demo_xx",
+  "id": "com.sap.sac.sample.echarts.pie_chart_demo_mf",
   "version": "1.0.0",
-  "name": "ECharts PieChart Demo Company Name",
+  "name": "ECharts PieChart Demo Interdobs",
   "newInstancePrefix": "EChartPieChart",
   "description": "A sample custom widget wrapped EChart Pie Chart",
   "webcomponents": [
     {
       "kind": "main",
-      "tag": "com-sap-sample-echarts-pie_chart_demo_xx",
-      "url": "https://.../.../echart_main.js",
+      "tag": "com-sap-sample-echarts-pie_chart_demo_mf",
+      "url": "https://github.com/mfoeken/customwidget/echart_main.js",
       "integrity": "",
       "ignoreIntegrity": true
     }
