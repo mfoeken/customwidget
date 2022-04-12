@@ -40,9 +40,22 @@
   	}
   },
 
-   //////////////////////////////////////
-  //Place the Data Binding script here//
- //////////////////////////////////////
+"dataBindings": {
+"myDataSource": {
+"feeds": [
+{
+"id": "dimensions",
+"description": "Dimensions",
+"type": "dimension"
+},
+{
+"id": "measures",
+"description": "Measures",
+"type": "mainStructureMember"
+}
+]
+}
+},
 
   "methods": {
     "getCaption": {
